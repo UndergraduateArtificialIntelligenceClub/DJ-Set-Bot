@@ -4,6 +4,9 @@ https://www.mixesdb.com/
 http://www.tuneid.com/
 https://www.be-at.tv/
 
+# research papers
+- https://hal.science/hal-02172427/document
+
 # Feature Generation from Essentia model
 
 ## Environment setup 
